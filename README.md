@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Animals Around the World</title>
+<title>Animals Around the World</title>
 </head>
 <body>
   <h1>The Brown Bear</h1>
