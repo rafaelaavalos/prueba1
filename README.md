@@ -19,7 +19,7 @@
   </div>
 
   <div class="image">
-    <p class="caption">The local semi- pro soccer team in Seattle, WA plays an international friendly</p>
+    <p class="caption">FIN</p>
   </div>
 
 </body>
